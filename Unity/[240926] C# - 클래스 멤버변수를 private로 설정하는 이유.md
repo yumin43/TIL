@@ -39,6 +39,18 @@ static void Main(string[] args)
     int myHp = player.Hp;
 }
 ```
+- get, set에 조건을 달아줄 수도 있다.
+```C#
+class Player
+{
+    private int hp;
+    public int HP 
+    { 
+        get { return hp; }
+        set { if (hp >= 0) {hp = value;} }
+    }
+}
+```  
 
 - get, set **자동 구현** 프로퍼티 기반 코드
 ```C#
