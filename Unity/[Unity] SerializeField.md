@@ -16,8 +16,6 @@ public class StageButton : MonoBehaviour
 {
   [SerializeField] private Button btn;
 }
-
-
 ```
 
 
