@@ -47,6 +47,8 @@
 ~~별것도아닌거같은데찾는데디게오래걸림삽질함~~
 
 # 📍 결론
+## ✓ 결과 화면
+<img width="249" alt="스크린샷 2024-12-11 오후 11 14 32" src="https://github.com/user-attachments/assets/a17f838c-4d3e-46ea-80bb-6a79093bf393" />
 ## ✓ position과 localPosition의 차이점
 - `transform.position` 
   - 기준 좌표계: 월드 좌표(World Space)
